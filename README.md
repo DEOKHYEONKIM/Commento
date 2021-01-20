@@ -1,4 +1,5 @@
 # Commento
+5주간의 교육 내용을 정리합니다.
 ------
 ## 1주차
 1. 스프링 개발 환경 구축 JDK 설치
@@ -12,5 +13,6 @@
     - workbench 설치 및 스키마 작성
 6. 스프링, Mariad, MyBatis 연동, 데이터 조회
     - 각 파일을 수정 및 추가하여 Spring, Mariad, MyBatis를 연동하고 조회하였다.
+![image](https://user-images.githubusercontent.com/77236420/105247169-afb5c480-5bb7-11eb-9804-38b1a1df281c.png)
 ------
 ## 2주차
