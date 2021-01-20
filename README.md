@@ -16,4 +16,11 @@
 ![image](https://user-images.githubusercontent.com/77236420/105247169-afb5c480-5bb7-11eb-9804-38b1a1df281c.png)
 ------
 ## 2주차
-
+1. SW활용률 API 가이드 작성
+    - 접속자 수
+    - 부서별 접속자 수
+    - 로그인 요청 수
+    - 게시글 작성 수
+2. 요청 url, 요청 parameter, 응답 데이터 포맷을 고려
+3. 공공 데이터 API 문서 및 제공된 인터페이스 가이드를 참고
+[2주차_SW 활용 현황 API 가이드 문서_김덕현.docx](https://github.com/DEOKHYEONKIM/Spring/files/5845595/2._SW.API._.docx)
