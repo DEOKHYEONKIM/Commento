@@ -1,6 +1,6 @@
-# Commento
+# Commento 
 5주간의 교육 내용을 정리합니다.
-------
+
 ## 1주차
 1. 스프링 개발 환경 구축 JDK 설치
     - 환경 변수 설정
@@ -16,3 +16,4 @@
 ![image](https://user-images.githubusercontent.com/77236420/105247169-afb5c480-5bb7-11eb-9804-38b1a1df281c.png)
 ------
 ## 2주차
+
