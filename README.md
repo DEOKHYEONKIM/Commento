@@ -23,4 +23,5 @@
     - 게시글 작성 수
 2. 요청 url, 요청 parameter, 응답 데이터 포맷을 고려
 3. 공공 데이터 API 문서 및 제공된 인터페이스 가이드를 참고
+
 [2주차_SW 활용 현황 API 가이드 문서_김덕현.docx](https://github.com/DEOKHYEONKIM/Spring/files/5845595/2._SW.API._.docx)
