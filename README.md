@@ -25,3 +25,12 @@
 3. 공공 데이터 API 문서 및 제공된 인터페이스 가이드를 참고
 
 [2주차_SW 활용 현황 API 가이드 문서_김덕현.docx](https://github.com/DEOKHYEONKIM/Spring/files/5845595/2._SW.API._.docx)
+------
+## 3주차
+1. RestController를 활용한 간단 API 구현
+2. 스프링부트 개발 환경 셋팅
+    - 기본 test 진행
+![3주차_1](https://user-images.githubusercontent.com/77236420/106096045-25053480-6178-11eb-9cdc-0de5c9fa738c.PNG)
+3. 통계 API(SW활용현황)을 위한 DB, TABLE 생성
+4. [20년도 로그인 수 API] 스프링부트, mybatis, mariadb 연동
+![3주차_2](https://user-images.githubusercontent.com/77236420/106096074-31898d00-6178-11eb-929c-ad23830896e3.PNG)
