@@ -40,11 +40,10 @@
 1. API 구축을 위한 아래 SQL 작성
 2. RestController를 활용하여 Rest API를 구축합니다.
 3. 통계 API 구축 SQL 작성
-MySQL Workbench Table
-- user
+    - MySQL Workbench Table
+    - user
 ![4주차_user](https://user-images.githubusercontent.com/77236420/106891207-bf8fe580-672d-11eb-8d9d-a215e35ee822.PNG)
-        
-- requestinfo
+    - requestinfo
 ![4주차_requestinfo](https://user-images.githubusercontent.com/77236420/106891215-c0c11280-672d-11eb-8eb3-a2941a729dde.PNG)
     
 - 월별 접속자 수
